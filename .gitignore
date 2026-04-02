@@ -1,0 +1,7 @@
+ml_env/
+venv/
+__pycache__/
+*.pyc
+*.h5
+*.npy
+.streamlit/
